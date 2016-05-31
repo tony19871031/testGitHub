@@ -4,4 +4,5 @@ echo "hello world";
 echo "yes";
 echo "dev";
 echo "aaaaa";
+echo "now master";
 ?>
